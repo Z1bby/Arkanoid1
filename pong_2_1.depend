@@ -1,0 +1,196 @@
+# depslib dependency file v1.0
+1471618379 source:c:\users\administrator\desktop\it\not school\008_pinball\pong_2_1\main.cpp
+	"files/Arkanoid.h"
+
+1471702160 source:c:\users\administrator\desktop\it\not school\008_pinball\pong_2_1\files\arkanoid.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<windows.h>
+	<vector>
+	<conio.h>
+	"Paddle.h"
+	"Ball.h"
+	"Screen.h"
+	"Construction.h"
+	"Powerups.h"
+	"Arkanoid.h"
+
+1471618379 c:\users\administrator\desktop\it\not school\008_pinball\pong_2_1\files\paddle.h
+
+1471618379 c:\users\administrator\desktop\it\not school\008_pinball\pong_2_1\files\ball.h
+	<vector>
+
+1471459738 c:\users\administrator\desktop\it\not school\008_pinball\pong_2_1\files\screen.h
+	<vector>
+
+1472311400 c:\users\administrator\desktop\it\not school\008_pinball\pong_2_1\files\construction.h
+	<vector>
+
+1471458310 c:\users\administrator\desktop\it\not school\008_pinball\pong_2_1\files\powerups.h
+	<iostream>
+	<vector>
+
+1471532206 c:\users\administrator\desktop\it\not school\008_pinball\pong_2_1\files\arkanoid.h
+	<vector>
+
+1472578583 source:c:\users\administrator\desktop\it\not school\008_pinball\pong_2_1\files\ball.cpp
+	<cstdlib>
+	<ctime>
+	<windows.h>
+	"Paddle.h"
+	"Ball.h"
+	"Screen.h"
+	"Construction.h"
+	"Powerups.h"
+
+1471458310 source:c:\users\administrator\desktop\it\not school\008_pinball\pong_2_1\files\powerups.cpp
+	<vector>
+	<windows.h>
+	"Powerups.h"
+
+1471530892 source:c:\users\administrator\desktop\it\not school\008_pinball\pong_2_1\files\screen.cpp
+	<vector>
+	<iostream>
+	"Paddle.h"
+	"Ball.h"
+	"Screen.h"
+	"Construction.h"
+	"Powerups.h"
+
+1471439718 source:c:\users\administrator\desktop\it\not school\008_pinball\pong_2_1\files\laserpowerup.cpp
+	<vector>
+	"Powerups.h"
+	"Paddle.h"
+	"Construction.h"
+
+1471705760 source:c:\users\administrator\desktop\it\mostofficialprograms\008_pinball\pong_2_1\files\arkanoid.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<windows.h>
+	<vector>
+	<conio.h>
+	"Paddle.h"
+	"Ball.h"
+	"Screen.h"
+	"Construction.h"
+	"Powerups.h"
+	"Arkanoid.h"
+
+1471621979 c:\users\administrator\desktop\it\mostofficialprograms\008_pinball\pong_2_1\files\paddle.h
+
+1471621979 c:\users\administrator\desktop\it\mostofficialprograms\008_pinball\pong_2_1\files\ball.h
+	<vector>
+
+1471463338 c:\users\administrator\desktop\it\mostofficialprograms\008_pinball\pong_2_1\files\screen.h
+	<vector>
+
+1472315000 c:\users\administrator\desktop\it\mostofficialprograms\008_pinball\pong_2_1\files\construction.h
+	<vector>
+
+1471461910 c:\users\administrator\desktop\it\mostofficialprograms\008_pinball\pong_2_1\files\powerups.h
+	<iostream>
+	<vector>
+
+1471535806 c:\users\administrator\desktop\it\mostofficialprograms\008_pinball\pong_2_1\files\arkanoid.h
+	<vector>
+
+1472582183 source:c:\users\administrator\desktop\it\mostofficialprograms\008_pinball\pong_2_1\files\ball.cpp
+	<cstdlib>
+	<ctime>
+	<windows.h>
+	"Paddle.h"
+	"Ball.h"
+	"Screen.h"
+	"Construction.h"
+	"Powerups.h"
+
+1471443318 source:c:\users\administrator\desktop\it\mostofficialprograms\008_pinball\pong_2_1\files\laserpowerup.cpp
+	<vector>
+	"Powerups.h"
+	"Paddle.h"
+	"Construction.h"
+
+1471461910 source:c:\users\administrator\desktop\it\mostofficialprograms\008_pinball\pong_2_1\files\powerups.cpp
+	<vector>
+	<windows.h>
+	"Powerups.h"
+
+1471534492 source:c:\users\administrator\desktop\it\mostofficialprograms\008_pinball\pong_2_1\files\screen.cpp
+	<vector>
+	<iostream>
+	"Paddle.h"
+	"Ball.h"
+	"Screen.h"
+	"Construction.h"
+	"Powerups.h"
+
+1471621979 source:c:\users\administrator\desktop\it\mostofficialprograms\008_pinball\pong_2_1\main.cpp
+	"files/Arkanoid.h"
+
+1471702160 source:c:\users\user\documents\it\mostofficialprograms\009_pinball\pong_2_1\files\arkanoid.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<windows.h>
+	<vector>
+	<conio.h>
+	"Paddle.h"
+	"Ball.h"
+	"Screen.h"
+	"Construction.h"
+	"Powerups.h"
+	"Arkanoid.h"
+
+1471618379 c:\users\user\documents\it\mostofficialprograms\009_pinball\pong_2_1\files\paddle.h
+
+1471618379 c:\users\user\documents\it\mostofficialprograms\009_pinball\pong_2_1\files\ball.h
+	<vector>
+
+1471459738 c:\users\user\documents\it\mostofficialprograms\009_pinball\pong_2_1\files\screen.h
+	<vector>
+
+1509980495 c:\users\user\documents\it\mostofficialprograms\009_pinball\pong_2_1\files\construction.h
+	<vector>
+
+1471458310 c:\users\user\documents\it\mostofficialprograms\009_pinball\pong_2_1\files\powerups.h
+	<iostream>
+	<vector>
+
+1471532206 c:\users\user\documents\it\mostofficialprograms\009_pinball\pong_2_1\files\arkanoid.h
+	<vector>
+
+1510234096 source:c:\users\user\documents\it\mostofficialprograms\009_pinball\pong_2_1\files\ball.cpp
+	<cstdlib>
+	<ctime>
+	<windows.h>
+	"Paddle.h"
+	"Ball.h"
+	"Screen.h"
+	"Construction.h"
+	"Powerups.h"
+
+1471439718 source:c:\users\user\documents\it\mostofficialprograms\009_pinball\pong_2_1\files\laserpowerup.cpp
+	<vector>
+	"Powerups.h"
+	"Paddle.h"
+	"Construction.h"
+
+1471458310 source:c:\users\user\documents\it\mostofficialprograms\009_pinball\pong_2_1\files\powerups.cpp
+	<vector>
+	<windows.h>
+	"Powerups.h"
+
+1471530892 source:c:\users\user\documents\it\mostofficialprograms\009_pinball\pong_2_1\files\screen.cpp
+	<vector>
+	<iostream>
+	"Paddle.h"
+	"Ball.h"
+	"Screen.h"
+	"Construction.h"
+	"Powerups.h"
+
+1510257959 source:c:\users\user\documents\it\mostofficialprograms\009_pinball\pong_2_1\main.cpp
+	"files/Arkanoid.h"
+
