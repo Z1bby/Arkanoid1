@@ -1,2 +1,2 @@
 # Arkanoid1
-highschool project
+a highschool project
